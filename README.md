@@ -7,7 +7,7 @@
 - 😄 Pronouns: He/Him
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="![image](https://github.com/HubSalamaga/HubSalamaga/assets/134604152/6417b05b-49d1-4028-a118-80ca284dcb03)">
+ <source media="(prefers-color-scheme: light)" srcset="![image](https://github.com/HubSalamaga/HubSalamaga/assets/134604152/8c7bab91-cd29-4948-9ecc-84d79eddd7b6)">
+ <img alt="Institute Of Biochemistry and Biophysics" src="![image](https://github.com/HubSalamaga/HubSalamaga/assets/134604152/0b5cd828-a874-4f3f-827a-a112d5fdd1d2)">
 </picture>
