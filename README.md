@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on developement of nextflow based workflows
-- 🌱 I’m currently learning Nextflow/Git
-- 💬 Ask me about DNA/RNA sequencing analysis, Metagenomics related topics
-- 📫 How to reach me: hsalamaga@ibb.waw.pl  
-- 😄 Pronouns: He/Him
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HubSalamaga/HubSalamaga/assets/134604152/6417b05b-49d1-4028-a118-80ca284dcb03">
